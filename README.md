@@ -18,7 +18,7 @@
 ```javascript
 const vishwa = {
     location: "Sri Lanka 🇱🇰",
-    role: "Full-stack Developer Developer",
+    role: "Full-stack Developer",
     passion: "Building seamless full-stack applications",
     currentFocus: ["Next.js", "Laravel", "Android Studio"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
@@ -113,7 +113,8 @@ const vishwa = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjaylk&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjaylk/mjaylk/output/snake-dark.svg">
