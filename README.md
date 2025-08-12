@@ -113,15 +113,6 @@ const vishwa = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjaylk&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjaylk/mjaylk/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjaylk/mjaylk/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mjaylk/mjaylk/output/snake.svg">
-  </picture>
-</div>
 
 ---
 
