@@ -18,9 +18,9 @@
 ```javascript
 const vishwa = {
     location: "Sri Lanka 🇱🇰",
-    role: "Frontend Developer",
-    passion: "Creating beautiful user experiences",
-    currentFocus: ["Next.js", "Laravel", "Modern Web Tech"],
+    role: "Fullstack Developer",
+    passion: "Building seamless full-stack applications",
+    currentFocus: ["Next.js", "Laravel", "Modern Web Tech", "Android Studio"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
