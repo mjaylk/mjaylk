@@ -18,9 +18,9 @@
 ```javascript
 const vishwa = {
     location: "Sri Lanka 🇱🇰",
-    role: "Fullstack Developer",
+    role: "Full-stack Developer Developer",
     passion: "Building seamless full-stack applications",
-    currentFocus: ["Next.js", "Laravel", "Modern Web Tech", "Android Studio"],
+    currentFocus: ["Next.js", "Laravel", "Android Studio"],
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
@@ -111,6 +111,12 @@ const vishwa = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjaylk&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mjaylk/mjaylk/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
